@@ -1,7 +1,7 @@
 #Build in function
 def compare(n1,n2):
 
-    return str(n1)+ str(n2) > str(n2) + str(n1)
+    return str(n1) + str(n2) > str(n2) + str(n1)
 
 # Selection sort
 def largestNumber3(nums):
